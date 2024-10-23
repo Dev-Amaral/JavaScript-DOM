@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+
+}
+p{
+    color: black;
+    font-size: 15px;
+    text-shadow: "none";
+}
+h1{
+    color: black;
+}
+
+img{
+    display: flex;
+}
